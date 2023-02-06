@@ -1,0 +1,56 @@
+
+*{
+    background-color: lightblue;
+}
+.qr {
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    margin-left: 40%;
+    border-radius: 10px;
+    
+}
+
+img {
+    border-radius: 10px;
+    border: 20px solid white;
+}
+
+.texto {
+    margin-top: 5%;
+    margin-left: 40%;
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    border: 20px solid white;
+
+}
+
+b {
+    background-color: white;
+}
+
+.text-g {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: white;  
+}
+
+.text-p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: white;
+}
+
+
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    margin-top: 5%;
+}
+
+.attribution a { color: hsl(228, 45%, 44%); }
